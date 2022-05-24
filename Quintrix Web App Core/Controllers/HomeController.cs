@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Quintrix_Web_App_Core.Models
+namespace Quintrix_Web_App_Core.Controllers
 {
     public class HomeController : Controller
     {
