@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quintrix Web App Core", "Quintrix Web App Core\Quintrix Web App Core.csproj", "{29FF047C-D2E7-4860-89F6-396D9B5EF575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FF047C-D2E7-4860-89F6-396D9B5EF575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF047C-D2E7-4860-89F6-396D9B5EF575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF047C-D2E7-4860-89F6-396D9B5EF575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF047C-D2E7-4860-89F6-396D9B5EF575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5634B428-7214-4E8B-BFB8-0313E66A29D5}
+	EndGlobalSection
+EndGlobal
